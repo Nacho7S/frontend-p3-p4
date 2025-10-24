@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
         className="antialiased"
       >
         <div className="w-full h-full bg-red-100">
-          <div className=" flex flex-row items-center justify-center h-[100vh]">
+          <div className=" flex flex-row items-center justify-center h-screen">
         {children}
             
       </div>
