@@ -53,3 +53,19 @@ sm3/my-app/
 ├── next.config.mjs
 └── README.md
 ```
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Landing Page
+![Landing Page](screenshots/1.png)
+
+### Form P3
+![Form P3](screenshots/p3.png)
+
+### Form P4/1
+![Form P4/1](screenshots/p4-1.png)
+
+### Form P4/2
+![Form P4/2](screenshots/p4-2.png)
