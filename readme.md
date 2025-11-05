@@ -2,6 +2,10 @@
 
 This project contains the frontend implementation for a university assignment with multiple form pages accessible via a landing page.
 
+## ⚠️ Important Notice - VPN Required
+
+**Note for Indonesian users:** This application uses the MangaDex API which is blocked in Indonesia. You will need to use a VPN to access the API and run this application successfully.
+
 ## Running the Application
 
 To run this application:
@@ -26,6 +30,7 @@ To run this application:
     http://localhost:3000
     ```
 
+5. If you're in Indonesia, make sure your VPN is active before accessing the application.
 
   
 
